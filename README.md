@@ -1,2 +1,2 @@
 # FlowerPhotoApp
-Click a button to see a different cat
+Click a button to see a different flower
